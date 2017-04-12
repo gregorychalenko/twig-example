@@ -1,0 +1,9 @@
+{
+    "name": "4ept/twigex",
+    "description": "twig example usage",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.3",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
